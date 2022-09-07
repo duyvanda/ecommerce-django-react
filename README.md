@@ -14,7 +14,7 @@ npm install
 npm start
  ```
  
- 
+Run manage.py changepassword admin@email.com to change password
  
  
  
